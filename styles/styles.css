@@ -1,0 +1,36 @@
+html{
+    min-height: 100vh;
+    position: relative;
+}
+
+body{
+    background-color: white;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    min-height: 80vh;
+}
+header{
+    min-height: 10vh;
+    background-color: red;
+    
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+img{
+    cursor: pointer;
+}
+footer{
+    color: white;
+    font-size: 18pt;
+    min-height: 10vh;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: red;
+  
+}
